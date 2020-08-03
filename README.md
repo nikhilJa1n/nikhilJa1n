@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello World,
+<br />
 
-<!--
-**nikhilJa1n/nikhilJa1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Engineer by profession.  
+I share my knowledge whoever asked it.   
+I love to code in Javascript.   
+I can write beautiful shell scripts.
 
-Here are some ideas to get you started:
+### Technologies:
+- Javascript, React, Angular, jQuery, React Native
+- Node, Java, Python
+- Shell scripting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Also interested in:
+- Ethical Hacking, Web Security, Digital Marketing
+
+Cheers,  
+Nikhil Jain :)  
