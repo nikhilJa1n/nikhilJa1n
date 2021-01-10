@@ -1,10 +1,12 @@
 # Hello World,
 <br />
 
-I'm an Engineer by profession.  
-I share my knowledge whoever asked it.   
-I love to code in Javascript.   
-I can write beautiful shell scripts.
+I'm an Engineer by profession.
+Like share my knowledge, if anyone want to lean something form me.
+Love to work on open source projects in free time.
+Also, :heart: to code in Javascript.
+I write beautiful shell scripts :grin:.
+
 
 ### Technologies:
 - Javascript, React, Angular, jQuery, React Native
