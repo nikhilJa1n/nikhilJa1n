@@ -2,7 +2,7 @@
 <br />
 
 I'm an Engineer by profession.\
-Like share my knowledge, if anyone want to lean something form me.\
+Like share my knowledge, if anyone want to learn something form me.\
 Love to work on open source projects in free time.\
 Also, :heart: to code in Javascript.\
 I write beautiful shell scripts :grin:.
